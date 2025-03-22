@@ -21,8 +21,8 @@ This Python script displays detailed device information such as system, CPU, mem
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shiboshreeroy/device-info.git
-   cd device-info
+   git clone https://github.com/ShiboshreeRoy/devise-iformation.git
+   cd devise-iformation
    ```
 
 2. Install the required libraries:
